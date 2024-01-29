@@ -1,0 +1,15 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+sentence-transformers
+#langchain-experimental #to use agents
+langchain
+langchain-community
+langchain-openai
+openai
+tiktoken
+chromadb
+pinecone-client
+llama-cpp-python
+docx2txt
+pypdf
+gradio
+python-dotenv

@@ -1,0 +1,6 @@
+__pycache__/
+.env
+.ipynb_checkpoints
+my-custom-code/docs/
+chroma/
+local_llm_models/
